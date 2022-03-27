@@ -15,7 +15,7 @@ This section is about describe my skills with POWER BI and in the following gift
 ### Project # 1 : World Economic Indicators
 This Dashboard contains wold indicators such as mortality per region , country and has statistics using the population of each country , I showed all of this data first in a map format and then in tables with conditional formatting .
 
-[![View Data Exploration Folder](https://img.shields.io/badge/Download-pbix-blueviolet?style=for-the-badge&logo=GITHUB)](https://github.com/ABENGDATA/Serious_SQL_Course/blob/c3fcdee62f4c5a8d989e63e604b8e030a62635cd/Projects%20SQL/Project_4_Data_Bank/Project_4_Data_Bank.md)
+[![View Data Exploration Folder](https://img.shields.io/badge/Download-pbix-blueviolet?style=for-the-badge&logo=GITHUB)](https://github.com/ABENGDATA/Dashboards-for-analytics/blob/599e31282dcefde21e564ecbf61a0567c9ba8c2c/Indicadores%20Mundiales.pbix)
 
 
 <p align="left">
@@ -27,7 +27,7 @@ This Dashboard contains wold indicators such as mortality per region , country a
 ### Project # 2 : Videogame Sales
 This is a dashboard where I performed calculations about videogames and its platforms like XBOX .PS2 ,PS4 and many others ,  the purpose of this report is understand variables and trends of the videogame sales and how some brands are growing with time .
 
-[![View Data Exploration Folder](https://img.shields.io/badge/Download-pbix-blueviolet?style=for-the-badge&logo=GITHUB)](https://github.com/ABENGDATA/Serious_SQL_Course/blob/c3fcdee62f4c5a8d989e63e604b8e030a62635cd/Projects%20SQL/Project_4_Data_Bank/Project_4_Data_Bank.md)
+[![View Data Exploration Folder](https://img.shields.io/badge/Download-pbix-blueviolet?style=for-the-badge&logo=GITHUB)](https://github.com/ABENGDATA/Dashboards-for-analytics/blob/599e31282dcefde21e564ecbf61a0567c9ba8c2c/Ventas%20Videojuegos.pbix)
 
 <p align="left">
   <img src="https://github.com/ABENGDATA/Dashboards-for-analytics/blob/f2deb837a0a884959c8512aea6b2dd920f7daa36/Ventas%20Videojuegos%20-%20Power%20BI%20Desktop%202022-03-26%2015-48-19.gif" />
@@ -37,7 +37,7 @@ This is a dashboard where I performed calculations about videogames and its plat
 In this Dashboard the fictional company called SKU-DON build the indicators of HR area in order to understand how the employees are distributed 
 with variables like territory , area of the company and lifespan also in the company .
 
-[![View Data Exploration Folder](https://img.shields.io/badge/Download-pbix-blueviolet?style=for-the-badge&logo=GITHUB)](https://github.com/ABENGDATA/Serious_SQL_Course/blob/c3fcdee62f4c5a8d989e63e604b8e030a62635cd/Projects%20SQL/Project_4_Data_Bank/Project_4_Data_Bank.md)
+[![View Data Exploration Folder](https://img.shields.io/badge/Download-pbix-blueviolet?style=for-the-badge&logo=GITHUB)](https://github.com/ABENGDATA/Dashboards-for-analytics/blob/599e31282dcefde21e564ecbf61a0567c9ba8c2c/Project_3.pbix)
 
 <p align="left">
   <img src="https://github.com/ABENGDATA/Dashboards-for-analytics/blob/f2deb837a0a884959c8512aea6b2dd920f7daa36/Project_3%20-%20Power%20BI%20Desktop%202022-03-26%2015-56-10.gif" />
@@ -46,7 +46,7 @@ with variables like territory , area of the company and lifespan also in the com
 ### Project # 4 : Self Money Control
 Self money control is a visual and easy way to understand our expenses in a time period , this dashboard has features like INCOME , EXPENSES , PROFIT and BALANCE so in this case with your data you will fully understand how your money is been spent .
 
-[![View Data Exploration Folder](https://img.shields.io/badge/Download-pbix-blueviolet?style=for-the-badge&logo=GITHUB)](https://github.com/ABENGDATA/Serious_SQL_Course/blob/c3fcdee62f4c5a8d989e63e604b8e030a62635cd/Projects%20SQL/Project_4_Data_Bank/Project_4_Data_Bank.md)
+[![View Data Exploration Folder](https://img.shields.io/badge/Download-pbix-blueviolet?style=for-the-badge&logo=GITHUB)](https://github.com/ABENGDATA/Dashboards-for-analytics/blob/599e31282dcefde21e564ecbf61a0567c9ba8c2c/Finanzas_personales.pbix)
 
 <p align="left">
   <img src="https://github.com/ABENGDATA/Dashboards-for-analytics/blob/f2deb837a0a884959c8512aea6b2dd920f7daa36/Proyecto%204%20-%20Power%20BI%20Desktop%202022-03-26%2014-00-49.gif" />
