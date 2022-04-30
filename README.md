@@ -1,4 +1,4 @@
-# Dashboards for analytics 📉📊📈
+# Power BI Dashboards for analytics 📉📊📈
 This repository has been created with the purpose to show my capabilities with BI software , so you will see in this section all my projects using software and services like POWER BI  , Tableau , Data Studio and many others .
 
 ![Language](https://img.shields.io/static/v1?label=Language&message=DAX&color=blueviolet)
